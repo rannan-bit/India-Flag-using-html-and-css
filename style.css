@@ -1,0 +1,33 @@
+.saffron{
+    height: 200px;
+    width: 900px;
+    background-color: #ff9933;
+}
+.white{
+    height: 200px;
+    width: 900px;
+    background-color: #ffffff;
+    position: relative;
+}
+.green{
+    height: 200px;
+    width: 900px;
+    background-color: #138808;
+}
+.chakra{
+    height: 185px;
+    width: 185px;
+    position: absolute;
+    left: 357.5px;
+    top: 7.5px;
+}.flag{
+    display: flex;
+    flex-direction: column;
+
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
